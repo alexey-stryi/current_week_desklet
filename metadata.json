@@ -1,0 +1,8 @@
+{
+  "max-instances": "1",
+  "uuid": "vecka_nu@phantom",
+  "name": "Vecka nu",
+  "description": "A desklet to show the current week number",
+  "version": "0.1",
+  "prevent-decorations": false
+}

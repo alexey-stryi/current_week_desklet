@@ -1,0 +1,16 @@
+.week-now-window {
+  padding: 10px 10px 0px 10px;
+}
+
+.week-now-item-title {
+  font-size: 125%;
+  font-weight: bold;
+  color: #00a0d6
+}
+
+.week-now-week-number {
+  text-align: center;
+  font-size: 64px;
+  font-weight: bold;
+  color: #00a0d6
+}
